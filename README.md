@@ -7,7 +7,7 @@ A: Contraint propagation is all about using local constraints in a space (in the
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: In case of a diagonal Sudoku problem, everything remains the same except we diagonal units to our list of units too. This will make sure diagonal constraints are satisfied too. 
+A: In case of a diagonal Sudoku problem, everything remains the same except we add diagonal units to our list of units too. This will make sure diagonal constraints are satisfied too. 
 
 ### Install
 This project requires **Python 3**.
